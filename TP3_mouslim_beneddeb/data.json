@@ -1,0 +1,60 @@
+{
+    "book": [
+        {
+            "title": "Python Basics",
+            "author": "John Doe",
+            "genre": "Programming",
+            "price": "29.99",
+            "published": "2023-01-15"
+        },
+        {
+            "title": "Advanced AI",
+            "author": "Jane Smith",
+            "genre": "Artificial Intelligence",
+            "price": "45.50",
+            "published": "2022-10-01"
+        },
+        {
+            "title": "Web Development Guide",
+            "author": "Bob Williams",
+            "genre": "Web Development",
+            "price": "22.75",
+            "published": "2020-06-20",
+            "publisher": "TechBooks Ltd."
+        },
+        {
+            "title": "Machine Learning Essentials",
+            "author": "Alice Johnson",
+            "genre": "Machine Learning",
+            "price": "35.00",
+            "published": "2023-07-10",
+            "rating": "4.8"
+        },
+        {
+            "title": "Data Science Fundamentals",
+            "author": "Landa Green",
+            "genre": "Data Science",
+            "price": "40.99",
+            "published": "2023-11-20",
+            "rating": "4.9"
+        }
+    ],
+    "magazine": [
+        {
+            "title": "AI Monthly",
+            "editor": "Dr. Emily Stone",
+            "category": "Technology",
+            "price": "5.99",
+            "published": "2024-02-01",
+            "frequency": "Monthly"
+        },
+        {
+            "title": "Coding Digest",
+            "editor": "Michael Brown",
+            "category": "Programming",
+            "price": "7.99",
+            "published": "2024-01-15",
+            "frequency": "Bi-Monthly"
+        }
+    ]
+}
